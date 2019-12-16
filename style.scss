@@ -76,6 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  color: $blue;
   a {
     color: inherit;
     vertical-align: middle;
@@ -237,7 +238,7 @@ nav {
 
   a {
     margin-right: 20px;
-    color: #f8f9fa;;
+    color: #f8f9fa;
     font-weight: 300;
     letter-spacing: 1px;
 
