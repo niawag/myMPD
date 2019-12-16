@@ -176,6 +176,7 @@ img {
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
+  color: #f8f9fa;
 }
 
 .site-description {
@@ -195,7 +196,7 @@ nav {
 
   a {
     margin-right: 20px;
-    color: $darkGray;
+    color: #f8f9fa;;
     font-weight: 300;
     letter-spacing: 1px;
 
@@ -244,12 +245,13 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: #343A40;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
+  font-size: 16px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
