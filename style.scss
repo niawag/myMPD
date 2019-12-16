@@ -30,6 +30,13 @@ body {
   width: 100%;
 }
 
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://github.com/jcorporation/myMPD/raw/master/htdocs/assets/MaterialIcons-Regular.woff2) format('woff2');
+}
+
 .material-icons {
   font-family: 'Material Icons';
   font-weight: normal;
