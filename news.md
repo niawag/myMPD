@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Home
+title: News
 permalink: /news/
 ---
+
+<p>News about myMPD and the MPD universe.</p>
 
 <div class="posts">
   {% for post in site.posts %}
