@@ -190,7 +190,7 @@ img {
 
 nav {
   font-family: $helveticaNeue;
-  margin-top: 9px;
+  margin-top: 20px;
   display: block;
   font-size: 16px;
 
@@ -246,12 +246,16 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: #343A40;
+  color: #f8f9fa
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
   font-size: 16px;
+  a {
+    color: #f8f9fa;	  
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
