@@ -11,13 +11,13 @@ It's tuned for minimal resource usage and requires only very few dependencies.
 myMPD is a fork of ympd (https://github.com/notandy/ympd).
 This fork provides a reworked ui based on Bootstrap 4, a modernized backend and many new features while having the same small footprint as ympd.
 
-**Design principles:**
+**Design principles**
  - Keep it small and simple
  - Uses only mpd as source of truth
  - Mobile first UI
  - Keep security in mind
 
-**Featurelist:**
+**Features**
  - Control mpd functions (play, pause, etc.)
  - Set mpd settings (repeat, random, etc.)
  - Browse mpd database by tags
@@ -39,5 +39,5 @@ This fork provides a reworked ui based on Bootstrap 4, a modernized backend and 
  - Love message for scrobbling clients
  - Localized user interface
 
-myMPD is work in progress. Feedback, bug reportes and feature requests are very welcome.
- - https://github.com/jcorporation/myMPD/issues
+myMPD is work in active development. Feedback, bug reportes and feature requests are very welcome.
+ - <a href="https://github.com/jcorporation/myMPD/issues">https://github.com/jcorporation/myMPD/issues</a>
