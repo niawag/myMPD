@@ -1,5 +1,5 @@
-name: Juergen Mang
-description: music lover and hobby programmer
+name: myMPD
+description: a standalone and mobile friendly web mpdclient
 avatar: https://raw.githubusercontent.com/jcorporation/myMPD/gh-pages/images/mympd.svg
 
 footer-links:
