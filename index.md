@@ -37,5 +37,5 @@ It's tuned for minimal resource usage and requires only very few dependencies.
  - Themeing
 
 myMPD is work in progress. Feedback, bug reportes and feature requests are very welcome.
- - <a href="https://github.com/jcorporation/myMPD/issues">Goto GitHub repository</a>
+ - <a href="https://github.com/jcorporation/myMPD/issues">Goto GitHub issues</a>
 
