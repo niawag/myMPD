@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Home
+permalink: /
 ---
 
 myMPD is a lightweight MPD web client that runs without a dedicated webserver or interpreter. 
