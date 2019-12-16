@@ -1,1 +1,7 @@
-theme: jekyll-theme-slate
+name: Juergen Mang
+description: music lover and hobby programmer
+avatar: https://raw.githubusercontent.com/jcorporation/myMPD/gh-pages/images/mympd.svg
+
+footer-links:
+  email: mail@jcgames.de
+  github: jcorporation/mympd
