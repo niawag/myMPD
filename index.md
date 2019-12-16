@@ -32,4 +32,4 @@ It's tuned for minimal resource usage and requires only very few dependencies.
  - Themeing
 
 myMPD is work in progress. Feedback, bug reportes and feature requests are very welcome.
- - https://github.com/jcorporation/myMPD/issues
+ - <a href="https://github.com/jcorporation/myMPD/issues">Goto myMPD issues on GitHub</a>
