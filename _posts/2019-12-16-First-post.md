@@ -5,9 +5,6 @@ date: 2019-12-16 09:26:00 -0100
 categories: common
 ---
 
-myMPD
-=====
-
 myMPD is a lightweight MPD web client that runs without a dedicated webserver or interpreter. 
 It's tuned for minimal resource usage and requires only very few dependencies.
 
