@@ -8,13 +8,13 @@ It's tuned for minimal resource usage and requires only very few dependencies.
 
 ![image](https://jcgames.de/stuff/myMPD/screenshots-2019-02-23.gif)
 
-**Design principles:**
+## Design principles
  - Keep it small and simple
  - Uses only mpd as source of truth
  - Mobile first UI
  - Keep security in mind
 
-**Featurelist:**
+## Features
  - Control mpd functions (play, pause, etc.)
  - Set mpd settings (repeat, random, etc.)
  - Browse mpd database by tags
@@ -36,6 +36,6 @@ It's tuned for minimal resource usage and requires only very few dependencies.
  - Localized user interface
  - Themeing
 
-myMPD is work in progress. Feedback, bug reportes and feature requests are very welcome.
+myMPD is win active development. Feedback, bug reportes and feature requests are very welcome.
  - <a href="https://github.com/jcorporation/myMPD/issues">Goto GitHub issues</a>
 
