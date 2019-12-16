@@ -261,6 +261,10 @@ nav {
     text-transform: uppercase;
     font-size: 15px;
   }
+  small {
+    font-size: 15px;
+    color: $gray
+  }
 }
 
 .wrapper-footer {
