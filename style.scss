@@ -206,15 +206,15 @@ img {
 }
 
 .site-name {
-  margin: 0;
+  margin-left: -4px;
   margin-bottom: 10px;
+  margin-top: 0px;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
   color: #f8f9fa;
-  vertical-align: middle;
 }
 
 .site-description {
