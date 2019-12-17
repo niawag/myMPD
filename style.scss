@@ -194,10 +194,6 @@ img {
 
 .masthead {
   padding: 20px 0;
-
-  @include mobile {
-    text-align: center;
-  }
 }
 
 .site-info {
@@ -223,27 +219,18 @@ img {
   border-bottom: none;
 }
 
-.site-description {
-  margin: -5px 0 0 0;
-  font-size: 16px;
-
-  @include mobile {
-    margin: 3px 0;
-  }
-}
-
 #forkme_banner {
-    display: block;
-    float: right;
-    margin-top: -20px;
-    padding: 10px 50px 10px 10px;
-    color: #fff;
-    background: url("/myMPD/assets/blacktocat.png") $blue no-repeat 95% 50%;
-    box-shadow: 0 0 10px rgba(0,0,0,0.5);
-    border-bottom-left-radius: 2px;
-    border-bottom-right-radius: 2px;
-    font-size: 14px;
-    font-weight: 700;
+  display: block;
+  float: right;
+  margin-top: -20px;
+  padding: 10px 50px 10px 10px;
+  color: #fff;
+  background: url("/myMPD/assets/blacktocat.png") $blue no-repeat 95% 50%;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  font-size: 14px;
+  font-weight: 700;
 }
 
 nav {
@@ -257,10 +244,6 @@ nav {
     color: #f8f9fa;
     font-weight: 300;
     letter-spacing: 1px;
-
-    @include mobile {
-      margin: 0 10px;
-    }
   }
 }
 
