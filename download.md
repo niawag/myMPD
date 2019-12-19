@@ -11,4 +11,4 @@ The source code repository is managed in a public GitHub <a href="https://github
 Prebuild packages are available through the <a href="https://build.opensuse.org/package/show/home:jcorporation/myMPD">Open Build Service</a> &ndash; <a href="https://download.opensuse.org/repositories/home:/jcorporation/">Download</a>
 
 ## Docker image
-There is a docker image based on debian9-slim available on <a href="https://gitlab.com/jcorporation/myMPD/container_registry">GitLab</a>.
+There is a docker image based on debian10-slim available on <a href="https://gitlab.com/jcorporation/myMPD/container_registry">GitLab</a>.
