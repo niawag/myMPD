@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "myMPD"
-date: 2019-12-16 09:26:00 -0100
+date: 2019-12-16 09:26:00 +0100
 categories: common
 ---
 
