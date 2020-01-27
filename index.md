@@ -42,4 +42,4 @@ myMPD is in active development. Feedback, bug reportes and feature requests are 
 
 Wiki
 ----
-For further information on installation and configuration, see the myMPD wiki: https://github.com/jcorporation/myMPD/wiki
+For further information on installation and configuration, see the <a href="https://github.com/jcorporation/myMPD/wiki">myMPD wiki</a>.
