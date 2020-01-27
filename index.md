@@ -30,6 +30,7 @@ It's tuned for minimal resource usage and requires only very few dependencies.
  - Local albumart support: embedded and image per folder
  - HTTP stream support
  - Local playback of mpd http stream (html5 audio api)
+ - Timers
  - Progressiv Web App enabled
  - Embedded Webserver (mongoose)
  - Love message for scrobbling clients
@@ -39,3 +40,6 @@ It's tuned for minimal resource usage and requires only very few dependencies.
 myMPD is in active development. Feedback, bug reportes and feature requests are very welcome.
  - <a href="https://github.com/jcorporation/myMPD/issues">Goto GitHub issues</a>
 
+Wiki
+----
+For further information on installation and configuration, see the myMPD wiki: https://github.com/jcorporation/myMPD/wiki
