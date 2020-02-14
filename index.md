@@ -37,8 +37,8 @@ It's tuned for minimal resource usage and requires only very few dependencies.
  - Localized user interface
  - Themeing
 
-myMPD is in active development. Feedback, bug reportes and feature requests are very welcome.
- - <a href="https://github.com/jcorporation/myMPD/issues">Goto GitHub issues</a>
+myMPD is in active development. If you like myMPD, you can help to improve it (no programming skils are required).
+  - <a href="https://github.com/jcorporation/myMPD/issues/167">Help to improve myMPD</a>
 
 Wiki
 ----
