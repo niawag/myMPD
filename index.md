@@ -16,26 +16,29 @@ It's tuned for minimal resource usage and requires only very few dependencies.
 
 ## Features
  - Control mpd functions (play, pause, etc.)
- - Set mpd settings (repeat, random, etc.)
+ - Set mpd options (repeat, random, etc.)
  - Browse mpd database by tags
  - Albumart grid
- - Browse filesystem and playlists
- - Bookmarks for directories
+ - Browse filesystem
  - Queue management
  - Playlist management
  - Advanced search
- - Jukebox mode (add's random songs / albums from database or playlists to queue)
+ - Jukebox mode (add's random songs to queue)
  - Smart playlists and saved searches
  - Play statistics and song voting
  - Local albumart support: embedded and image per folder
+ - Local lyrics (textfile per song file)
+ - Local booklet support (per album folder)
  - HTTP stream support
  - Local playback of mpd http stream (html5 audio api)
  - Timers
- - Progressiv Web App enabled
+ - Scrobbler integration
  - Embedded Webserver (mongoose)
- - Love message for scrobbling clients
  - Localized user interface
  - Themeing
+ - Publishing of mpd and myMPD directories via http and webdav
+ - Progressiv Web App enabled
+ - Support of Media Session API
 
 myMPD is in active development. If you like myMPD, you can help to improve it (no programming skills are required).
   - <a href="https://github.com/jcorporation/myMPD/issues/167">Help to improve myMPD</a>
