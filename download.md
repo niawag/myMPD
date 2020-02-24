@@ -14,4 +14,6 @@ A list of distributions that delivers myMPD is maintained in the <a href="https:
 Prebuild packages are available through the <a href="https://build.opensuse.org/package/show/home:jcorporation/myMPD">Open Build Service</a> &ndash; <a href="https://download.opensuse.org/repositories/home:/jcorporation/">Download</a>
 
 ## Docker image
-There is a docker image based on debian10-slim available on <a href="https://gitlab.com/jcorporation/myMPD/container_registry">GitLab</a>.
+Docker images are published through the GitHub docker registry: https://github.com/jcorporation/myMPD/packages
+
+Use ``docker pull docker.pkg.github.com/jcorporation/mympd/mympd:latest`` to use the latest image.
