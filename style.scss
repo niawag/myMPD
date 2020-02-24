@@ -18,7 +18,7 @@ html {
 }
 
 body {
-  background: #F2F2F2;
+  background: #FFF;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -304,4 +304,13 @@ footer {
   a {
     color: #f8f9fa;	  
   }
+}
+
+code {
+  padding: .2em .4em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(27,31,35,.05);
+  border-radius: 3px;
+  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
 }
