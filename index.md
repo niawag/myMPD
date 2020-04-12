@@ -17,6 +17,7 @@ It's tuned for minimal resource usage and requires only very few dependencies.
 ## Features
  - Control mpd functions (play, pause, etc.)
  - Set mpd options (repeat, random, etc.)
+ - MPD mount and neighbors support
  - Browse mpd database by tags
  - Albumart grid
  - Browse filesystem
