@@ -28,7 +28,7 @@ It's tuned for minimal resource usage and requires only very few dependencies.
  - Smart playlists and saved searches
  - Play statistics and song voting
  - Local albumart support: embedded and image per folder
- - Local lyrics (textfile per song file)
+ - Local lyrics (textfile per song or embedded)
  - Local booklet support (per album folder)
  - HTTP stream support
  - Local playback of mpd http stream (html5 audio api)
