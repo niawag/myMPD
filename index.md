@@ -3,16 +3,15 @@ layout: page
 permalink: /
 ---
 
-myMPD is a lightweight MPD web client that runs without a dedicated webserver or interpreter. 
-It's tuned for minimal resource usage and requires only very few dependencies.
+myMPD is a standalone and lightweight MPD web client. It's tuned for minimal resource usage and requires only very few dependencies. Therefore myMPD is ideal for raspberry pis and similar devices.
+
+The backend ist written in C and has no dependencies to external databases or webservers. The configuration is stored in plain text files and all the data is pulled on demand from MPD. The MPD database is the only source of truth for myMPD.
+
+The frontend is mobile friendly, written as a PWA and offers on all devices the same functionality. It communicates over AJAX and websockets using the json-rpc 2 protocol.
+
+myMPD also integrates extended features like an advanced jukebox mode, timers and smart playlists.
 
 ![image](/assets/myMDPv6.0.0.gif)
-
-## Design principles
- - Keep it small and simple
- - Uses only mpd as source of truth
- - Mobile first UI
- - Keep security in mind
 
 ## Features
  - Control mpd functions (play, pause, etc.)
