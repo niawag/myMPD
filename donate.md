@@ -4,6 +4,8 @@ title: Donate
 permalink: /donate
 ---
 
+myMPD is a small hobby project of mine. I only work on it in my spare time, so any help is welcome.
+
 You can donate to the myMPD project per PayPal.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
