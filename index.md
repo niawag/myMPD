@@ -17,6 +17,8 @@ myMPD also integrates extended features like an advanced jukebox mode, timers an
 - Control mpd functions (play, pause, etc.)
 - Set mpd options (repeat, random, etc.)
 - MPD mount and neighbors support
+- MPD partition support
+- MPD output attributes
 - Browse mpd database by tags
 - Albumart grid
 - Browse filesystem
@@ -31,7 +33,7 @@ myMPD also integrates extended features like an advanced jukebox mode, timers an
 - Local booklet support (per album folder)
 - HTTP stream support
 - Local playback of mpd http stream (html5 audio api)
-- Timers
+- Timers and Triggers
 - [System commands](https://github.com/jcorporation/myMPD/wiki/System-Commands)
 - [Lua scripting](https://github.com/jcorporation/myMPD/wiki/Scripting)
 - Scrobbler integration
