@@ -187,7 +187,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 0;
   background-color: #343A40;
   color: #f8f9fa;
 }
@@ -222,7 +222,9 @@ img {
 #forkme_banner {
   display: block;
   float: right;
-  margin-top: -20px;
+  margin-top: -30px;
+  margin-bottom: 20px;
+  margin-left: 40px;
   padding: 10px 50px 10px 10px;
   color: #fff;
   background: url("/myMPD/assets/blacktocat.png") $blue no-repeat 95% 50%;
