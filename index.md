@@ -3,6 +3,8 @@ layout: page
 permalink: /
 ---
 
+<a id="forkme_banner" href="https://github.com/jcorporation/myMPD">View on GitHub</a>
+
 myMPD is a standalone and lightweight web-based MPD client. It's tuned for minimal resource usage and requires only very few dependencies. Therefore myMPD is ideal for raspberry pis and similar devices.
 
 The backend ist written in C and has no dependencies to external databases or webservers. The configuration is stored in plain text files and all the data is pulled on demand from MPD. The MPD database is the only source of truth for myMPD.
