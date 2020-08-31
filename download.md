@@ -20,6 +20,8 @@ Docker images are published through the GitHub docker registry: <a href="https:/
 
 Use ``docker pull docker.pkg.github.com/jcorporation/mympd/mympd:latest`` to use the latest image.
 
+--
+
 ## myMPDos
 ### Source code
 The source code repository is managed in a public GitHub <a href="https://github.com/jcorporation/myMPDos/">repository</a>.
