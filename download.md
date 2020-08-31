@@ -4,7 +4,7 @@ title: Download
 permalink: /download/
 ---
 
-##myMPD
+## myMPD
 
 ### Source code
 The source code repository is managed in a public GitHub <a href="https://github.com/jcorporation/myMPD/">repository</a>. You can download the latest release tarball <a href="https://github.com/jcorporation/myMPD/releases">here</a>. Building instructions are in the <a href="https://github.com/jcorporation/myMPD/blob/master/README.md">readme</a> and in the <a href="https://github.com/jcorporation/myMPD/wiki/Building-myMPD">Wiki</a>.
@@ -20,7 +20,7 @@ Docker images are published through the GitHub docker registry: <a href="https:/
 
 Use ``docker pull docker.pkg.github.com/jcorporation/mympd/mympd:latest`` to use the latest image.
 
-##myMPDos
+## myMPDos
 ### Source code
 The source code repository is managed in a public GitHub <a href="https://github.com/jcorporation/myMPDos/">repository</a>.
 
