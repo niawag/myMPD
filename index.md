@@ -6,7 +6,7 @@ permalink: /
 myMPD is a lightweight MPD web client that runs without a dedicated webserver or interpreter. 
 It's tuned for minimal resource usage and requires only very few dependencies.
 
-![image](/assets/myMDPv6.0.0.gif)
+![image](/assets/myMDPv6.7.0.gif)
 
 ## Design principles
  - Keep it small and simple
