@@ -3,47 +3,14 @@ layout: page
 permalink: /
 ---
 
-myMPD is a lightweight MPD web client that runs without a dedicated webserver or interpreter. 
-It's tuned for minimal resource usage and requires only very few dependencies.
+myMPD is a standalone and lightweight web-based MPD client. It's tuned for minimal resource usage and requires only very few dependencies. Therefore myMPD is ideal for raspberry pis and similar devices.
 
-![image](/assets/myMDPv6.7.0.gif)
+[image](/assets/myMDPv6.7.0.gif)
 
-## Design principles
- - Keep it small and simple
- - Uses only mpd as source of truth
- - Mobile first UI
- - Keep security in mind
+The backend ist written in C and has no dependencies to external databases or webservers. The configuration is stored in plain text files and all the data is pulled on demand from MPD. The MPD database is the only source of truth for myMPD.
 
-## Features
- - Control mpd functions (play, pause, etc.)
- - Set mpd options (repeat, random, etc.)
- - MPD mount and neighbors support
- - Browse mpd database by tags
- - Albumart grid
- - Browse filesystem
- - Queue management
- - Playlist management
- - Advanced search
- - Jukebox mode (add's random songs to queue)
- - Smart playlists and saved searches
- - Play statistics and song voting
- - Local albumart support: embedded and image per folder
- - Local lyrics (textfile per song or embedded)
- - Local booklet support (per album folder)
- - HTTP stream support
- - Local playback of mpd http stream (html5 audio api)
- - Timers
- - Scrobbler integration
- - Embedded Webserver (mongoose)
- - Localized user interface
- - Themeing
- - Publishing of mpd and myMPD directories via http and webdav
- - Progressiv Web App enabled
- - Support of Media Session API
+The frontend is mobile friendly, written as a PWA and offers on all devices the same functionality. It communicates over AJAX and websockets using the json-rpc 2 protocol.
 
-myMPD is in active development. If you like myMPD, you can help to improve it (no programming skills are required).
-  - <a href="https://github.com/jcorporation/myMPD/issues/167">Help to improve myMPD</a>
+myMPD also integrates extended features like an advanced jukebox mode, timers and smart playlists. With the integrated lua interpreter myMPD functions can also be scripted.
 
-Wiki
-----
-For further information on installation and configuration, see the <a href="https://github.com/jcorporation/myMPD/wiki">myMPD wiki</a>.
+<a id="forkme_banner" href="https://github.com/jcorporation/myMPD">View on GitHub</a>
